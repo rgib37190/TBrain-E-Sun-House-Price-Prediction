@@ -25,4 +25,13 @@ Hit-Rate的計算共分為兩步驟，首先比對各筆不動產預測和真實
 
 ## PPT
 
-![image](./img/投影片1.png)
+![image](./img/投影片1.JPG)
+![image](./img/投影片2.JPG)
+![image](./img/投影片3.JPG)
+![image](./img/投影片4.JPG)
+![image](./img/投影片5.JPG)
+![image](./img/投影片6.JPG)
+![image](./img/投影片7.JPG)
+![image](./img/投影片8.JPG)
+![image](./img/投影片9.JPG)
+![image](./img/投影片10.JPG)
