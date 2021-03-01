@@ -22,3 +22,7 @@ Hit-Rate的計算共分為兩步驟，首先比對各筆不動產預測和真實
 ![cmp6_eval4](./img/cmp6_eval4.png)
 
 ![cmp6_eval5](./img/cmp6_eval5.png)
+
+## PPT
+
+![image](./img/投影片1.png)
